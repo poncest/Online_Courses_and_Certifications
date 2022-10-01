@@ -2,10 +2,10 @@
 | Date | Program| Skills | Repository | Certificate | Status |
 |------|------|------|------|------|------|
 |June 2019      |Data Visualization with Tableau Coursera Specialization      |Tableau, dataviz      |https://github.com/poncest/Data-Visualization-with-Tableau-Specialization      |![](images/Data%20Visualization%20with%20Tableau%20certificate.png)      |Complete      |
-|June 2020     |Project Management Cornell Certificate Program      |      |      |      |Complete      |
-|Sept 2020      |Data Analytics 360 Cornell Certificate Program      |      |      |      |Complete     |
-|Dec 2020      |Python for Everybody Coursera Specialization      |      |      |      |Complete      |
-|Apr 2021      |Machine Learning Cornell Certificate Program      |      |      |      |Complete      |
+|June 2020     |Project Management Cornell Certificate Program      |Project management      |https://github.com/poncest/eCornell-Project-Management      |   IMG   |Complete      |
+|Sep 2020      |Data Analytics 360 Cornell Certificate Program      |excel, KPI, stat summaries, regression models      |https://github.com/poncest/eCornell-Data-Analytics-360      |   IMG   |Complete     |
+|Dec 2020      |Python for Everybody Coursera Specialization      |python      |https://github.com/poncest/Coursera-Python-for-Everybody      |   IMG   |Complete      |
+|Apr 2021      |Machine Learning Cornell Certificate Program      |python, ML      |https://github.com/poncest/eCornell-Machine-Learning      |  IMG    |Complete      |
 |Aug 2021      |Applied DS with Python Coursera Specialization      |python, dataviz, text-mining, ML      |https://github.com/poncest/Coursera-Applied-Data-Science-With-Python      |  IMG    |Complete      |
 |Jan 2022     |Tidyverse Skills for DS in R Coursera Specialization      |R, ggplot, ML      |https://github.com/poncest/coursera-tidyverse-skills-for-data-science-in-R-specialization      | IMG      |In-Process (4/5)      |
 |Feb 2022      |Business Science University (BSU)      |R, ggplot, ML, Shiny      |https://github.com/poncest/bsu      | IMG     |In-Process (3/5)      |
