@@ -6,10 +6,10 @@
 |Sept 2020      |Data Analytics 360 Cornell Certificate Program      |      |      |      |Complete     |
 |Dec 2020      |Python for Everybody Coursera Specialization      |      |      |      |Complete      |
 |Apr 2021      |Machine Learning Cornell Certificate Program      |      |      |      |Complete      |
-|Aug 2021      |Applied DS with Python Coursera Specialization      |      |      |      |Complete      |
-|Jan 2022     |Tidyverse Skills for DS in R Coursera Specialization      |      |      |      |In-Process (4/5)      |
-|Feb 2022      |Business Science University (BSU)      |      |      |      |In-Process (3/5)      |
-|Aug 2022      |Learn SQL Basics for DS Coursera Specialization      |Learn SQL Basics for DS Coursera Specialization      |SQL, SQL Lite      |      |In-Process (1/4)      |
+|Aug 2021      |Applied DS with Python Coursera Specialization      |python, dataviz, text-mining, ML      |https://github.com/poncest/Coursera-Applied-Data-Science-With-Python      |  IMG    |Complete      |
+|Jan 2022     |Tidyverse Skills for DS in R Coursera Specialization      |R, ggplot, ML      |https://github.com/poncest/coursera-tidyverse-skills-for-data-science-in-R-specialization      | IMG      |In-Process (4/5)      |
+|Feb 2022      |Business Science University (BSU)      |R, ggplot, ML, Shiny      |https://github.com/poncest/bsu      | IMG     |In-Process (3/5)      |
+|Aug 2022      |Learn SQL Basics for DS Coursera Specialization      |SQL, SQL Lite      |https://www.coursera.org/specializations/learn-sql-basics-data-science      |   IMG   |In-Process (1/4)      |
 |      |      |      |      |      |      |
 
 
