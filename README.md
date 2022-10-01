@@ -1,7 +1,7 @@
 
 | Date | Program| Skills | Repository | Certificate | Status |
 |------|------|------|------|------|------|
-|June 2019      |Data Visualization with Tableau Coursera Specialization      |Tableau, dataviz      |https://github.com/poncest/Data-Visualization-with-Tableau-Specialization      |![](images/Data%20Visualization%20with%20Tableau%20certificate.png)      |Complete      |
+|June 2019      |Data Visualization with Tableau Coursera Specialization      |Tableau, dataviz      |[Coursera Data Visualization with Tableau](https://github.com/poncest/Data-Visualization-with-Tableau-Specialization)       |![](images/Data%20Visualization%20with%20Tableau%20certificate.png)      |Complete      |
 |June 2020     |Project Management Cornell Certificate Program      |Project management      |https://github.com/poncest/eCornell-Project-Management      |   IMG   |Complete      |
 |Sep 2020      |Data Analytics 360 Cornell Certificate Program      |excel, KPI, stat summaries, regression models      |https://github.com/poncest/eCornell-Data-Analytics-360      |   IMG   |Complete     |
 |Dec 2020      |Python for Everybody Coursera Specialization      |python      |https://github.com/poncest/Coursera-Python-for-Everybody      |   IMG   |Complete      |
