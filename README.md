@@ -8,7 +8,7 @@
 |Apr 2021      |Machine Learning Cornell Certificate Program      |python, ML      |[eCornell Machine Learning](https://github.com/poncest/eCornell-Machine-Learning)      |![](images/ML%20Certificate.png)       |Complete      |
 |Aug 2021      |Applied DS with Python Coursera Specialization      |python, dataviz, text-mining, ML      |[Coursera Appiled DS with Python](https://github.com/poncest/Coursera-Applied-Data-Science-With-Python)      |![](images/Appiled%20DS%20certificate.png)      |Complete      |
 |Jan 2022     |Tidyverse Skills for DS in R Coursera Specialization      |R, ggplot, ML      |[Coursera Tidyverse Skills for DS](https://github.com/poncest/coursera-tidyverse-skills-for-data-science-in-R-specialization)      | IMG      |In-Process (4/5)      |
-|Feb 2022      |Business Science University (BSU)      |R, ggplot, ML, Shiny      |[5 Course R-Track](https://github.com/poncest/bsu)      | IMG     |In-Process (3/5)      |
+|Feb 2022      |Business Science University (BSU)      |R, ggplot, ML, Shiny      |[5 Course R-Track](https://github.com/poncest/bsu)      |![](images/BSU%20course%201.png)     |In-Process (3/5)      |
 |Aug 2022      |Learn SQL Basics for DS Coursera Specialization      |SQL, SQL Lite      |[program website](https://www.coursera.org/specializations/learn-sql-basics-data-science)      |   IMG   |In-Process (1/4)      |
 |      |      |      |      |      |      |
 
