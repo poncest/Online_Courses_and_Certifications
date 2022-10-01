@@ -1,3 +1,21 @@
+
+| Date | Program| Skills | Repository | Certificate | Status |
+|------|------|------|------|------|------|
+|June 2019      |Data Visualization with Tableau Coursera Specialization      |Tableau, dataviz      |https://github.com/poncest/Data-Visualization-with-Tableau-Specialization      |![](images/Data%20Visualization%20with%20Tableau%20certificate.png)      |Complete      |
+|June 2020     |Project Management Cornell Certificate Program      |      |      |      |Complete      |
+|Sept 2020      |Data Analytics 360 Cornell Certificate Program      |      |      |      |Complete     |
+|Dec 2020      |Python for Everybody Coursera Specialization      |      |      |      |Complete      |
+|Apr 2021      |Machine Learning Cornell Certificate Program      |      |      |      |Complete      |
+|Aug 2021      |Applied DS with Python Coursera Specialization      |      |      |      |Complete      |
+|Jan 2022     |Tidyverse Skills for DS in R Coursera Specialization      |      |      |      |In-Process (4/5)      |
+|Feb 2022      |Business Science University (BSU)      |      |      |      |In-Process (3/5)      |
+|Aug 2022      |Learn SQL Basics for DS Coursera Specialization      |Learn SQL Basics for DS Coursera Specialization      |SQL, SQL Lite      |      |In-Process (1/4)      |
+|      |      |      |      |      |      |
+
+
+
+
+
 # Online Courses and Certifications
 
 Below you can find a high-level summary of the online courses taken over the years in the area of `project management`, `data analytics`, and `data science`.
